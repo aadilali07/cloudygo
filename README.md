@@ -9,7 +9,7 @@ and other Go data.
 
 ## Getting Started
 
-Visit [CloudyGo.com](http://CloudyGo.com) to see a live version.
+Visit [CloudyGo.com](http://CloudyGo.com) to see a live version.And enjoy yourself
 
 ### Prerequisites
 
